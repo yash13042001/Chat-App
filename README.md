@@ -1,11 +1,11 @@
 # chat_app
 
-A new Flutter project.
+It is basically a real-time chat app.In this app user can login and chat with other users.
 
-## Getting Started
+Tech Used
+Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
-This project is a starting point for a Flutter application.
-
+Client: Flutter, Provider
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
